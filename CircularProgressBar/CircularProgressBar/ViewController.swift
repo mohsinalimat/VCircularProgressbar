@@ -33,6 +33,19 @@ class ViewController: UIViewController {
     @objc func loadViewCustom() {
         if i < 101 {
             lblPercentage.text = "\(i)%"
+            
+            if i < 50
+            {
+                lblPercentage.textColor =  UIColor.green
+            }
+            else if i > 50 && i < 70
+            {
+                lblPercentage.textColor =  UIColor.yellow
+            }
+            else if i > 70
+            {
+                lblPercentage.textColor =  UIColor.red
+            }
             //call the Method Of for draw ProgressBar circular
             obj.MakeProgressBar(ProgressPercentage: i)
             i += 1
