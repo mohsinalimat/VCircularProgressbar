@@ -47,4 +47,4 @@ func loadViewCustom() {
 ```
 
 
-<a href="https://github.com/vishalkalola1/VCircularProgressbar/blob/master/Progress.gif"><img src="https://github.com/vishalkalola1/VCircularProgressbar/blob/master/Progress.gif" title=""/></a>
+<a href="https://github.com/vishalkalola1/VCircularProgressbar/blob/master/ezgif.com-video-to-gif.gif"><img src="https://github.com/vishalkalola1/VCircularProgressbar/blob/master/ezgif.com-video-to-gif.gif" title=""/></a>
